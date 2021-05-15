@@ -16,7 +16,7 @@ I am currently an App Developer at [DVM]() and a Game Developer at [ACM](http://
 
 - 💬 Am always eager to collaborate on a project;
 
-- 📫 Can reach me with an <a href="mailto:absphreak@outlook.com"><b>email</b></a> anytime;
+- 📫 Can reach me with an <a href="mailto:adarsh.bhardwaj2020@gmail.com"><b>email</b></a> anytime;
 
 <pre>
 
