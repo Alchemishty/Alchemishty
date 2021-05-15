@@ -8,13 +8,13 @@ I'm [Adarsh Bhardwaj](https://www.linkedin.com/in/adarsh-bhardwaj-5b0ab720b/), a
 
 I am currently an App Developer at [DVM]() and a Game Developer at [ACM](http://bitsacm.acm.org/index.html);
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/Alchemishty/Alchemishty/blob/master/code.gif?raw=true" width="400" height="300" />
 
 - 💻 Have intermediate experience of using Java, Kotlin and Flutter;
 
 - 🎯 Currently learning Backend and exploring Frontend frameworks;
 
-- 💬 Am always eager to collaborate on a project;
+- 💬 I am always eager to collaborate on a project;
 
 - 📫 Can reach me with an <a href="mailto:adarsh.bhardwaj2020@gmail.com"><b>email</b></a> anytime;
 
