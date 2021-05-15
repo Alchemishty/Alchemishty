@@ -2,7 +2,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+World;Welcome+to+Alchemist's+Brewery;I'm+an+App+Developer%2C+sometimes;I'm+a+Game+Developer%2C+sometimes;I'm+a+Web+Developer%2C+sometimes;I'm+a+Software+Developer%2C+everytime)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=26DCC0&lines=Hello+World;Welcome+to+Alchemist's+Brewery;I'm+an+App+Developer%2C+some+times;I'm+a+Game+Developer%2C+some+times;I'm+a+Web+Developer%2C+some+times;I'm+a+Coder%2C+all+the+time)
 
 I'm [Adarsh Bhardwaj](https://www.linkedin.com/in/adarsh-bhardwaj-5b0ab720b/), a passionate software developer at BITS Pilani. I can mostly be found at my laptop, dreaming up ideas and trying to make them come true - byte by byte;
 
