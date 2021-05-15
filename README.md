@@ -8,7 +8,7 @@ I'm [Adarsh Bhardwaj](https://www.linkedin.com/in/adarsh-bhardwaj-5b0ab720b/), a
 
 I am currently an App Developer at [DVM]() and a Game Developer at [ACM](http://bitsacm.acm.org/index.html);
 
-  <img align="right" alt="GIF" src="https://github.com/Alchemishty/Alchemishty/blob/master/code.gif?raw=true" width="400" height="300" />
+  <img align="right" alt="GIF" src="https://github.com/Alchemishty/Alchemishty/blob/main/code.gif?raw=true" width="400" height="300" />
 
 - 💻 Have intermediate experience of using Java, Kotlin and Flutter;
 
