@@ -20,9 +20,9 @@ I am currently an App Developer at [DVM]() and a Game Developer at [ACM](http://
 
 <pre>
 
-> npx alchemist
+> npx alchemishty
 > Loading scipt...
-> fatal: Failed to load. Work in progress
+> Try it yourself to find out 😄
 </pre>
 
 📈 My GitHub Stats
