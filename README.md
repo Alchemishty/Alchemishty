@@ -6,7 +6,7 @@
 
 I'm [Adarsh Bhardwaj](https://www.linkedin.com/in/adarsh-bhardwaj-5b0ab720b/), a passionate software developer at BITS Pilani. I can mostly be found at my laptop, dreaming up ideas and trying to make them come true - byte by byte;
 
-I am currently an App Developer at [DVM]() and a Game Developer at [ACM](http://bitsacm.acm.org/index.html);
+I am currently an App Developer at [DVM](https://dvm-bitspilani.github.io/DVM-Portfolio/) and a Game Developer at [ACM](http://bitsacm.acm.org/index.html);
 
   <img align="right" alt="GIF" src="https://github.com/Alchemishty/Alchemishty/blob/main/code.gif?raw=true" width="400" height="300" />
 
