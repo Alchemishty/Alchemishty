@@ -6,17 +6,20 @@
 
 I'm [Adarsh Bhardwaj](https://www.linkedin.com/in/adarsh-bhardwaj-5b0ab720b/), a passionate software developer at BITS Pilani. I can mostly be found at my laptop, dreaming up ideas and trying to make them come true - byte by byte;
 
-I am currently an App Developer at [DVM](https://dvm-bitspilani.github.io/DVM-Portfolio/) and a Game Developer at [ACM](http://bitsacm.acm.org/index.html);
+Busy these days as - 
+[Google Developer Student Club](https://gdsc.community.dev/birla-institute-of-technology-science-bits-pilani/) Lead
+App Developer at [DVM](https://dvm-bitspilani.github.io/DVM-Portfolio/) 
+Game Developer at [ACM](http://bitsacm.acm.org/index.html);
 
   <img align="right" alt="GIF" src="https://github.com/Alchemishty/Alchemishty/blob/main/code.gif?raw=true" width="400" height="300" />
 
 - 💻 Have intermediate experience of using Java, Kotlin and Flutter;
 
-- 🎯 Currently learning Backend and exploring Frontend frameworks;
+- 🎯 Currently exploring Backend and Network Programming;
 
-- 💬 I am always eager to collaborate on a project;
+- 💬 I am always open to accepting collaborators;
 
-- 📫 Can reach me with an <a href="mailto:adarsh.bhardwaj2020@gmail.com"><b>email</b></a> anytime;
+- 📫 Reach me with an <a href="mailto:adarsh.bhardwaj2020@gmail.com"><b>email</b></a> anytime to know what projects I'm currently working on;
 
 <pre>
 
@@ -25,7 +28,7 @@ I am currently an App Developer at [DVM](https://dvm-bitspilani.github.io/DVM-Po
 > Try it yourself to find out 😄
 </pre>
 
-📈 My GitHub Stats
+📈 My GitHub Introvertness Number
 
 ![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alchemishty&count_private=true&theme=gotham)
 
