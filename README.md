@@ -6,16 +6,18 @@
 
 I'm [Adarsh Bhardwaj](https://www.linkedin.com/in/adarsh-bhardwaj-5b0ab720b/), a passionate software developer at BITS Pilani. I can mostly be found at my laptop, dreaming up ideas and trying to make them come true - byte by byte;
 
-Busy these days as - 
-[Google Developer Student Club](https://gdsc.community.dev/birla-institute-of-technology-science-bits-pilani/) Lead
-App Developer at [DVM](https://dvm-bitspilani.github.io/DVM-Portfolio/) 
-Game Developer at [ACM](http://bitsacm.acm.org/index.html);
+
+- 🌲 [Google Developer Student Club](https://gdsc.community.dev/birla-institute-of-technology-science-bits-pilani/) Lead
+
+- 📲 App Developer at [DVM](https://dvm-bitspilani.github.io/DVM-Portfolio/) 
+
+- 🎮 Game Developer at [ACM](http://bitsacm.acm.org/index.html);
 
   <img align="right" alt="GIF" src="https://github.com/Alchemishty/Alchemishty/blob/main/code.gif?raw=true" width="400" height="300" />
 
-- 💻 Have intermediate experience of using Java, Kotlin and Flutter;
+- 💻 Proficient in App Dev using Java, Kotlin and Flutter;
 
-- 🎯 Currently exploring Backend and Network Programming;
+- 🎯 Currently exploring Networks and Backend;
 
 - 💬 I am always open to accepting collaborators;
 
